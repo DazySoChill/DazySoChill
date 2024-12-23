@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DazySoChill
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning HTML and CSS
 - 💞️ I’m looking to collaborate on nope
 - 📫 How to reach me : Lmao
 - 😄 Pronouns: He\Him
